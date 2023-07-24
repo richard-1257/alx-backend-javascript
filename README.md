@@ -1,3 +1,3 @@
-alx-backend-javascript
+# alx-backend-javascript
 
-code written and submitted for Backend JS studies at ALX
+code written and submitted for Backend JS studies at [ALX](https://www.alxafrica.com/)
