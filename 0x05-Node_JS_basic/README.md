@@ -1,3 +1,5 @@
+![haz](https://github.com/richard-1257/alx-backend-javascript/assets/83041703/5bb552fd-4e18-401a-ba7c-41cce2f92957)
+
 # NodeJS Basics
 
 This project contains tasks for learning to the basics of NodeJS.
