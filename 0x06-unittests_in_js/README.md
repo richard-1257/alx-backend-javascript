@@ -391,4 +391,3 @@ This project contains tasks for learning to create unittests in NodeJS.
     + You should be able to run the test suite using `yarn test 10-api/api.test.js`.
     + Every test should pass without any warning.
     + Your server should not display any error.
-root@9446838005b3:/alx-backend-javascript/0x06-unittests_in_js#
